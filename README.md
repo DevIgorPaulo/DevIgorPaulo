@@ -11,7 +11,7 @@
 
 ### 👨‍💻 Igor Francisco Antunes Paulo
 
-**`Desenvolvedor Back-End & Front-End · Joinville, SC`**
+**`Desenvolvedor Full-Stack · Joinville, SC`**
 
 [![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/DevIgorPaulo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas)](https://github.com/DevIgorPaulo?tab=repositories&sort=stargazers)
 [![GitHub Followers](https://custom-icon-badges.demolab.com/github/followers/DevIgorPaulo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/DevIgorPaulo?tab=followers)
