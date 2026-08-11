@@ -27,7 +27,7 @@
 nome:       Igor Francisco Antunes Paulo
 idade:      19 anos
 localidade: Joinville, Santa Catarina 🇧🇷
-graduação:  Engenharia de Software — Univille
+cursando:   Engenharia de Software — Univille
 escola:     E.E.B. Professor João Rocha
 atuando:    desde os 14 anos
 foco:       Back-End + Front-End
