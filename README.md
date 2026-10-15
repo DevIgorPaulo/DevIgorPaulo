@@ -29,7 +29,7 @@ idade:      19 anos
 localidade: Joinville, Santa Catarina 🇧🇷
 cursando:   Engenharia de Software — Univille
 escola:     E.E.B. Professor João Rocha
-atuando:    desde os 14 anos
+atuando:    desde os 16 anos
 foco:       Back-End + Front-End
 status:     🟢 Disponível para projetos
 ```
